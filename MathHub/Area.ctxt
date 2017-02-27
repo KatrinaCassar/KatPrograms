@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ method()
+comment1.params=unit\ unit2
+comment1.target=void\ shapes(java.lang.String,\ java.lang.String)
+comment10.params=unit\ unit2
+comment10.target=void\ rhombus(java.lang.String,\ java.lang.String)
+comment2.params=unit\ unit2
+comment2.target=void\ kite(java.lang.String,\ java.lang.String)
+comment3.params=unit\ unit2
+comment3.target=void\ trapezium(java.lang.String,\ java.lang.String)
+comment4.params=unit\ unit2
+comment4.target=void\ circle(java.lang.String,\ java.lang.String)
+comment5.params=unit\ unit2
+comment5.target=void\ oval(java.lang.String,\ java.lang.String)
+comment6.params=unit\ unit2
+comment6.target=void\ triangle(java.lang.String,\ java.lang.String)
+comment7.params=unit\ unit2
+comment7.target=void\ parallelogram(java.lang.String,\ java.lang.String)
+comment8.params=unit\ unit2
+comment8.target=void\ rectangle(java.lang.String,\ java.lang.String)
+comment9.params=unit\ unit2
+comment9.target=void\ square(java.lang.String,\ java.lang.String)
+numComments=11
