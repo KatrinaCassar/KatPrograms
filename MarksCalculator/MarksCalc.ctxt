@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ method()
+comment1.params=
+comment1.target=void\ amount()
+comment2.params=amount\ subjects
+comment2.target=void\ marks(int,\ java.lang.String[])
+comment3.params=amount\ subjects\ marks
+comment3.target=void\ average(int,\ java.lang.String[],\ int[])
+comment4.params=amount\ subjects\ marks\ averageDouble
+comment4.target=void\ highestlowest(int,\ java.lang.String[],\ int[],\ double)
+comment5.params=amount\ subjects\ marks\ averageDouble\ lowest\ highest
+comment5.target=void\ higherThanAverage(int,\ java.lang.String[],\ int[],\ double,\ int,\ int)
+comment6.params=amount\ subjects\ marks\ averageDouble\ lowest\ highest\ sb
+comment6.target=void\ output(int,\ java.lang.String[],\ int[],\ double,\ int,\ int,\ java.lang.StringBuilder)
+numComments=7
