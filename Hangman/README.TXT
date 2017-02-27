@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Hangman
+PURPOSE OF PROJECT: Just a simple game of Hangman.
+VERSION or DATE: V1
+HOW TO START THIS PROJECT: Main class: "Run"
+AUTHORS: Katrina Cassar
+USER INSTRUCTIONS: Spell out the word before the man gets hanged!
