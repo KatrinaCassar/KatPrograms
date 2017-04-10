@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Card Validator
+PURPOSE OF PROJECT: To validate credit card numbers
+VERSION or DATE: V1
+HOW TO START THIS PROJECT: Only makes use of one class, "Validator" 
+AUTHORS: Katrina Cassar
+USER INSTRUCTIONS: Enter a credit card number to see whether or not it is valid
